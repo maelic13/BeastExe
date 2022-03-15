@@ -9,7 +9,7 @@ namespace BeastExe
             var process = new Process {
                 StartInfo = new ProcessStartInfo {
                     FileName = "./venv/scripts/python.exe",
-                    Arguments = "./src/main.py",
+                    Arguments = "./src/beast.py",
                     UseShellExecute = false
                 }
             };
