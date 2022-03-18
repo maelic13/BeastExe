@@ -12,4 +12,4 @@ This project expects .NET Framework v4.8, or you can potentionally try another v
 
 .NET Framework v4.8 download: https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 
-Or edit BeastExe.csproj and it's property TargetFrameworkVersion to you preferred version.
+Or edit BeastExe.csproj and it's property &lt;TargetFrameworkVersion> to you preferred version.
